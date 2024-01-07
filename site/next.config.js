@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'LinuxServer.io',
     description: 'Kasm workspaces provided by LSIO expertise',
     icon: 'https://www.linuxserver.io/user/assets/typhoon/Asset%202.svg',
-    listUrl: 'https://hexirox.github.io/kasmre/',
+    listUrl: 'https://hexirox.github.com/kasmre/',
     contactUrl: 'https://discord.gg/YWrKVTn',
   },
   reactStrictMode: true,
